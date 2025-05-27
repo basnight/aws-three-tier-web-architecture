@@ -1,7 +1,7 @@
 # AWS Three Tier Web Architecture Workshop
 
 ## Description: 
-This workshop is a hands-on walk through of a three-tier web architecture in AWS. We will be manually creating the necessary network, security, app, and database components and configurations in order to run this architecture in an available and scalable manner.
+This workshop is a hands-on walk through of a three-tier web architecture in AWS. We will be manually creating the necessary network, security, app, and database components and configurations in order to run this architecture in an available and scalable manner. You can also watch the entire implementation on YouTube video [here](https://youtu.be/xhtNi2zJZDU) 
 
 ## Audience:
 Although this is an introductory level workshop, it is intended for those who have a technical role. The assumption is that you have at least some foundational aws knowledge around VPC, EC2, RDS, S3, ELB and the AWS Console.  
